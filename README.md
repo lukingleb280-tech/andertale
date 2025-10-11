@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '7323885564:AAEBAZh43hf1DrHrQlzszRm9A2hZHuUsJUk'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 chat_room = {
